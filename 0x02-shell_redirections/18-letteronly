@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^[[:alpa:]] /etc/passwd/sshd_config
+grep ^[[:alpa:]] /etc/sshd_config
